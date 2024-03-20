@@ -4,7 +4,7 @@
   <a href="https://twitter.com/thanhnhaapac">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://youtube.com/maithanhnha">
+  <a href="https://youtube.com/@thanhnhaapac">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://facebook.com/mmaithanhnha">
