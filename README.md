@@ -22,11 +22,11 @@
 - I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
 ---
 - I'm working in:
- - Blockchain: Ethereum / Near Protocol / Polkadot / SUI / ...
+ - Blockchain: Ethereum / Substrate / Polkadot / SUI / ...
  - Front-end: ReactJs / NextJs / TypeScript / ...
  - Back-end: Node.js /...
- - Smart Contract: **Ink** / *Solidity* / *Phat Contract* (update)
- - Major Languages: **NextJs** / **Substrate** / **Rust** / *SUI (Update)*
+ - Smart Contract: **Ink** / *Solidity* / *Move on SUI* (update)
+ - Major Languages: **NextJs** / **Rust** / **SUI** / *GO (Update)*
 ---
 Where I live on the web:
 -----------------------
