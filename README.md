@@ -26,7 +26,7 @@
  - Front-end: ReactJs / TypeScript / ...
  - Back-end: Node.js /...
  - Smart Contract: **Ink** / **Solidity** / *Move on SUI* (update)
- - Major Languages: **NextJs** / **Rust** / **SUI** / *GO (Update)*
+ - Major Languages: **NextJs** / **Rust** / **MOVE** / *GO (Update)*
 ---
 Where I live on the web:
 -----------------------
